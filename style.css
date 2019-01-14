@@ -1,0 +1,30 @@
+
+
+
+
+
+#testimonial{
+  background: #f1f1f1;
+  padding: 50px 0 30px 0;
+  text-align: center;
+  font-size: 25px;
+
+  color: #000;
+}
+
+#map {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
+
+ul {
+	list-style: none;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.grow { transition: all .2s ease-in-out; }
+.grow:hover { transform: scale(1.5); }
